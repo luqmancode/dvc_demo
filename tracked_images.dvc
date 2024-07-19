@@ -1,0 +1,6 @@
+outs:
+- md5: f0bd7fc42c29087323ecdb3339df8ea0.dir
+  size: 86369
+  nfiles: 2
+  hash: md5
+  path: tracked_images
